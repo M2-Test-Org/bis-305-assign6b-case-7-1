@@ -94,7 +94,7 @@ public class TestAssign6BCase7_1
         expectedOutcome.AppendLine("Dancing                   1");
         expectedOutcome.AppendLine("Musical instrument        1");
         expectedOutcome.AppendLine("Other                     0");
-        expectedOutcome.AppendLine("");
+        //expectedOutcome.AppendLine("");
         expectedOutcome.Append("Enter a talent type or Z to quit >> ");
         //Enter a talent type or Z to quit >>
         Assert.Equal(expectedOutcome.ToString(), output.ToString());
