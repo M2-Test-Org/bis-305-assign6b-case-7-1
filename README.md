@@ -1,7 +1,5 @@
 # BIS 305 Assignment 6B - Case Problem 7-1.
 
-This repo is for use to code and debug the BIS 305 Assignment 5 - Case Problem 1.
-
 ### Use Case 1
 
 The inputs in the console should be:
